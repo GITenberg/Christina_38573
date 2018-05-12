@@ -1,0 +1,26 @@
+_repo: Christina_38573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38573-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Moberly, L. G. (Lucy Gertrude)
+    birthdate: 1860
+    gutenberg_agent_id: '39540'
+    url: http://www.gutenberg.org/2009/agents/39540
+description: ''
+gutenberg_issued: '2012-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+title: Christina
+url: http://www.gutenberg.org/ebooks/38573
